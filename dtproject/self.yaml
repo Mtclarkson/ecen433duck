@@ -1,7 +1,7 @@
-name: "<PROJECT_NAME_HERE>"
+name: "ecen433duck"
 maintainer:
-    name: "ECEN 433 Student"
-    email: "ecen433student@gmail.com"
+    name: "Matthew Clarkson"
+    email: "matt77@byu.edu"
 description: "ROS project for Duckietown"
 version: 0.0.0
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
